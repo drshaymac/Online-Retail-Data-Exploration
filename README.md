@@ -105,7 +105,7 @@ Extracted the day of week from `InvoiceDate`, grouped and summed `TotalSales`.
 
 **Chart: Sales by Hour of Day (Bar Chart)**
 
-A bar chart displaying total revenue grouped by hour shows a clear concentration of purchasing activity during business hours.
+A bar chart displaying total revenue grouped by hour shows a clear concentration of purchasing activity during **9am to 3pm**.
 
 *A clean, labeled chart was generated with matplotlib/seaborn and exported for inclusion in the portfolio.*
 
@@ -114,10 +114,10 @@ A bar chart displaying total revenue grouped by hour shows a clear concentration
 ## Phase 5: Insights & Recommendations
 
 ### Key Insight
-Peak shopping activity occurs between **10am and 3pm**, with the highest revenue window concentrated around **12pm–2pm**. Approximately 70% of daily sales occur within the 10am–4pm window.
+Peak shopping activity occurs between **9 am and 3 pm**, with the highest revenue occurring at **10 am**. Approximately 70% of total sales occur within the 10 am – 3 pm window. The highest daily sales-generating window falls between Tuesday  and Thursday, with Thursday being the peak day of sales.
 
 ### Recommendation
-> Schedule promotional emails and push notifications to arrive between **10am–12pm** to intercept customers in the lead-up to peak purchasing hours. Avoid evening campaigns — engagement drops sharply after 4pm for this retail segment.
+> Schedule promotional emails and push notifications to arrive between **10 am–12 pm** to intercept customers in the lead-up to peak purchasing hours. Avoid evening campaigns — engagement drops sharply after 3 pm for this retail segment.
 
 ### Secondary Insight
 The top-selling products by quantity differ meaningfully from top revenue products, suggesting a **two-tier pricing strategy** exists in the catalog — high-volume/low-margin items coexist with lower-volume/high-value items.
